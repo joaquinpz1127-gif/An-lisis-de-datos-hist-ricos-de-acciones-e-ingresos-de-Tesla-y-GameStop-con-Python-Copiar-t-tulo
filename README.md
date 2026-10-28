@@ -1,0 +1,1 @@
+# An-lisis-de-datos-hist-ricos-de-acciones-e-ingresos-de-Tesla-y-GameStop-con-Python-Copiar-t-tulo
